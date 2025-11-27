@@ -91,7 +91,8 @@ export default function HomePage() {
       <section className="mb-10 card p-6 rounded-lg">
         <h2 className="text-2xl font-semibold mb-2 accent-gradient">Experience</h2>
         <ul className="space-y-3 text-gray-300">
-          <li className="fade-in-item"><strong className="text-white">Netsach Global</strong> – Security Analyst & Developer (Jul 2024 – Present)</li>
+          <li className="fade-in-item"><strong className="text-white">Netsach Global</strong> – Cyber Security Researcher Red Team hacker academy ( Nov 2025 – present)</li>
+          <li className="fade-in-item"><strong className="text-white">Netsach Global</strong> – Security Analyst & Developer (Jul 2024 – Sep 2025)</li>
           <li className="fade-in-item"><strong className="text-white">Sutherland Global Services</strong> – Customer Executive (Sep 2023 – Jun 2024)</li>
           <li className="fade-in-item"><strong className="text-white">Ford Motor Corporation</strong> – Trainee (Apr 2018 – Present)</li>
           <li className="fade-in-item"><strong className="text-white">IIIC</strong> – Industrial Training (Jun 2024 – Jan 2023)</li>
